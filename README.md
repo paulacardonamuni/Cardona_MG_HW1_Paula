@@ -9,15 +9,17 @@ I will list the different ingredients that are necessary for the recipe and the 
 
 
 **Ingredients**
-- Potatoes (3 ud)
-- Eggs (6 ud)
-- Olive oil (2 cups)
-- Onions (1 ud)
+- 800g of potatoes (3 ud)
+- 300g of eggs (6 ud)
+- 400 ml of olive oil (2 cups)
+- 120g of onion (1 ud)
 
 **Steps**
 1. Cook the potatoes with olive oil
-2. Prepare the egg mixture
-3. Bake the potato omelette
-4. [Omelette](totillapatatas.jpeg)
+2. Separate the potatoes from the oil
+3. Cook the onion
+4. Prepare the egg mixture with the potatoes and the onion
+5. Bake the potato omelette
+6. [Omelette](totillapatatas.jpeg)
 
 Image source: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcocina-casera.com%2Ftortilla-de-patatas-casera%2F&psig=AOvVaw2w2k3YsuPjRiqJ4b1BjB7r&ust=1666193663821000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNi0lp6N6voCFQAAAAAdAAAAABAE
