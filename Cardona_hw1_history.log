@@ -1,0 +1,500 @@
+    7  pwd
+    8  ls
+    9  cd mastering_git
+   10  echo '# Cardona_MG_HW1_Paula' >> README.md
+   11  git init
+   12  git add README.md
+   13  git branch -M main
+   14  git remote add origin https://github.com/paulacardonamuni/Cardona_MG_HW1_Paula.git
+   15  git push -u origin main
+   16  git config --global
+   17  git config -h
+   18  git config --global -e
+   19  git config --global core.autocrlf
+   20  ls
+   21  cd ..
+   22  cd ..
+   23  cd ..
+   24  cd d
+   25  cd mastering_git
+   26  mkdir hw1_PaulaCardona
+   27  get init
+   28  git init
+   29  cd
+   30  ls
+   31  cd ..
+   32  cd ..
+   33  cd ..
+   34  cd d
+   35  mkdir mastering_git
+   36  cd mastering_git
+   37  mkdir hw1_PaulaCardona
+   38  cd hw1_PaulaCardona
+   39  git init
+   40  ls -a
+   41  ls
+   42  code .
+   43  git status
+   44  git add hw1.txt
+   45  git status
+   46  git commit -m "Initial commit"
+   47  git log
+   48  git log --oneline
+   49  git branch
+   50  git checkout -b branch1
+   51  git branch
+   52  git checkout master
+   53  git checkout -b branch2
+   54  git checkout master
+   55  git branch
+   56  git remote add origin git@github.com:paulacardonamuni/Cardona_MG_HW_Paula.git
+   57  git push -u origin main
+   58  git push -u origin master
+   59  git push -u origin master
+   60  git remote
+   61  git push
+   62  git remote add origin git@github.com:paulacardonamuni/Cardona_MG_HW_Paula.git
+   63  git push -u origin master
+   64  git remote add origin
+   65  git remote add origin -m
+   66  git remote add origin git@github.com:paulacardonamuni/Cardona_MG_HW_Paula.git
+   67  cd ..
+   68  cd ..
+   69  cd ..
+   70  cd di
+   71  cd d
+   72  cd mastering_git
+   73  mkdir Cardona_MG_HW1_Paula
+   74  cd Cardona_MG_HW1_Paula
+   75  git init
+   76  git status
+   77  echo 'Homework 1' > README.md
+   78  git add README.md
+   79  git commit -m "Initial commit"
+   80  git remote add origin git@github.com:paulacardonamuni/Cardona_MG_HW1_Paula.git
+   81  git branch -m master
+   82  git push -u origin master
+   83  git push -u origin maain
+   84  git push -u origin main
+   85  clear
+   86  ssh-keygen
+   87  clear
+   88  git config --global --unset  core.excludesfile
+   89  git config --global --unset user.name
+   90  git config --global --unser user.email
+   91  git config --global --unser uset.email
+   92  git config --global --unset user.email
+   93  git config --global --list
+   94  git config --global user.email "532357@mail.muni.cz"
+   95  git config --global user.name "paulacardonamuni"
+   96  git config --global --list
+   97  ssh-keygen
+   98  git push -u origin main
+   99  git remote add origin git@github.com:paulacardonamuni/Cardona_MG_HW1_Paula.git
+  100  git branch -m master
+  101  git push -u origin master
+  102  clear
+  103  git branch
+  104  git checkout -b rama1
+  105  git checkout master
+  106  git checkout -b rama2
+  107  git checkout master
+  108  git branch
+  109  git checkout rama1
+  110  git remote add origin git@github.com:paulacardonamuni/Cardona_MG_HW1_Paula.git
+  111  git branch -m description
+  112  git checkout rama2
+  113  git branch -m movieposter
+  114  git checkout master
+  115  git branch -m aliceinwonderland
+  116  git checkout description
+  117  git status
+  118  mkdir data.txt
+  119  pwd
+  120  ls
+  121  cd data.txt
+  122  cat data.txt
+  123  git status
+  124  code .
+  125  rm data.txt
+  126  code .
+  127  git status
+  128  git add data.txt
+  129  clear
+  130  cd ..
+  131  cd ..
+  132  cd ..
+  133  cd d
+  134  cd mastering_git
+  135  ls
+  136  mkdir Cardona_MG_HW1_Paula
+  137  cd Cardona_MG_HW1_Paula
+  138  git init
+  139  ls
+  140  git status
+  141  echo 'First Homework Paula Cardona' > README.md
+  142  git status
+  143  git add README.md
+  144  git config --global core.autocrlf
+  145  git status
+  146  git commit -m "Initial commit. Add README"
+  147  git status
+  148  git status
+  149  clear
+  150  git status
+  151  git branch -m main
+  152  git branch
+  153  git checkout -b ramab
+  154  git branch
+  155  git checkout main
+  156  code .
+  157  git status
+  158  git add data.txt
+  159  git commit -m "add data.txt"
+  160  git checkout ramab
+  161  git status
+  162  code .
+  163  clear
+  164  cd ..
+  165  cd ..
+  166  cd ..
+  167  cd d
+  168  cd mastring_git
+  169  cd mastering_git
+  170  mkdir Cardona_MG_HW1_Paula
+  171  ls
+  172  cd Cardona_MG_HW1_Paula
+  173  git init
+  174  code .
+  175  git status
+  176  git add data.txt
+  177  git commit -m "Initial commit"
+  178  code .
+  179  git add data2.txt
+  180  git status
+  181  git commit -m "add data2.txt"
+  182  echo 'First Homework' > README.md
+  183  git status
+  184  git add README.md
+  185  git status
+  186  git commit -m "Add readme"
+  187  clear
+  188  git status
+  189  git branch
+  190  git branch -m main
+  191  clear
+  192  git status
+  193  git branch
+  194  git checkout -b film1
+  195  git branch
+  196  git checkout main
+  197  git checkout -b film2
+  198  git checkout main
+  199  git checkout film1
+  200  git status
+  201  add data.txt
+  202  git add data.txt
+  203  git status
+  204  git commit -m "Modification data.txt"
+  205  clear
+  206  git log --oneline
+  207  cat data.txt
+  208  git checkout main
+  209  cat data.txt
+  210  git merge film1
+  211  cat data.txt
+  212  git remote add origin git@hub.com:paulacardonamuni/Cardona_MG_HW1_Paula.git
+  213  git push -u origin main
+  214  git remote add origin git@hub.com:paulacardonamuni/Cardona_MG_HW1_Paula.git
+  215  git push -u origin main
+  216  clear
+  217  git remote add origin git@hub.com:paulacardonamuni/Cardona_MG_HW1_Paula.git
+  218  git branch -M main
+  219  git push -u origin main
+  220  host github.com
+  221  Host
+  222  sudo nano ~/.ssh/config
+  223  ssh cofig
+  224  ssh config
+  225  git config --local -e
+  226  ssh-keygen -t ed25519 -C "532557@mail.muni.cz"
+  227  git push -u origin main
+  228  clear
+  229  git remote add origin git@hub.com:paulacardonamuni/Cardona_MG_HW1_Paula.git
+  230  git status
+  231  git remote add origin git@github.com:paulacardonamuni/CardonaAlbero_MG_HW1_Paula.git
+  232  git remote remove origin
+  233  git remote -v
+  234  git remote add origin git@github.com:paulacardonamuni/CardonaAlbero_MG_HW1_Paula.git
+  235  push -u origin main
+  236  git push -u origin main
+  237  clear
+  238  cd ..
+  239  cd ..
+  240  cd ..
+  241  cd d
+  242  cd mastering_git
+  243  mkdir CardonaAlbero_MG_HW1_Paula
+  244  cd CardonaAlbero_MG_HW1_Paula
+  245  git init
+  246  code .
+  247  echo 'First Homework. Paula Cardona' > README.md
+  248  git status
+  249  git add README.md
+  250  git status
+  251  git commit -m "Initial commit. Add readme"
+  252  code .
+  253  git status
+  254  git add data1.txt data2.txt
+  255  git status
+  256  git commit -m "Add data1 and data2"
+  257  git branch
+  258  git checkout -b film1
+  259  git status
+  260  git add data1.txt
+  261  git commit -m "update data1"
+  262  git log --oneline
+  263  cat data1.txt
+  264  git checkout main
+  265  git checkout master
+  266  git branch -m main
+  267  git checkout main
+  268  cat data1.txt
+  269  git merge film1
+  270  cat data1.txt
+  271  git remote add origin git@github.com:paulacardonamuni/CardonaAlbero_MG_HW1_Paula
+  272  git push -u origin main
+  273  git checkout -b film2
+  274  clear
+  275  git status
+  276  git add data2.txt
+  277  git commit -m "Update data2.txt"
+  278  git push -u film2
+  279  git push -u origin film2
+  280  git branch
+  281  git add wonderlland.txt
+  282  mkdir wonderland.txt
+  283  ls
+  284  cd wonderland.txt
+  285  cd ..
+  286  mkdir https://jaleninalemi.files.wordpress.com/2018/03/alice-in-wonderland.jpg
+  287  clear
+  288  branch
+  289  git branch
+  290  git checkout film1
+  291  git add data1.txt
+  292  git push 'u origin film1
+  293  git push -u origin film1
+  294  clar
+  295  clear
+  296  cd //
+  297  cd ..
+  298  branch
+  299  git branch
+  300  ls
+  301  cd ..
+  302  cd ..
+  303  cd ..
+  304  cd d
+  305  cd mastering_git
+  306  ls
+  307  cd CardonaAlbero_MG_HW1_Paula
+  308  git state
+  309  git status
+  310  add README.md
+  311  git commit -m "Update readme"
+  312  git push -u origin film1
+  313  git status
+  314  git add README.md
+  315  git chekout main
+  316  git checkout main
+  317  git mege film1
+  318  git merge film1
+  319  git push -u origin main
+  320  clear
+  321  git status
+  322  git commit -m "add film1"
+  323  git status
+  324  git push -u origin main
+  325  git merge film1
+  326  git status
+  327  git push
+  328  git push -u film1
+  329  git checkout film1
+  330  push -u origin master
+  331  push -u origin main
+  332  git push -u origin main
+  333  git switch main
+  334  git status
+  335  git fetch
+  336  git pull
+  337  git merge film1
+  338  git push -u origin film1
+  339  git push -u origin main
+  340  git branch
+  341  git merge film1
+  342  git checkout film1
+  343  git status
+  344  git add data1.txt
+  345  cat data1.txt
+  346  git checkout main
+  347  cat data1.txt
+  348  git checkout film1
+  349  git cat data1.txt
+  350  cat data1.txt
+  351  git checkout main
+  352  cat data1.txt
+  353  cd ..
+  354  cd ..
+  355  cd ..
+  356  cd d
+  357  cd mastering_git
+  358  mkdir Cardona_MG_HW1_Paula
+  359  cd Cardona_MG_HW1_Paula
+  360  git branch
+  361  clear
+  362  git init
+  363  git status
+  364  echo 'Mastering Git. First Homework. Paula Cardona' > README.md
+  365  git add README.md
+  366  git commit -m "Initial commit"
+  367  echo $'\n This is a new line' >> README.md
+  368  code .
+  369  git status
+  370  git add README.md
+  371  git status
+  372  git commit -m "upload readme"
+  373  git branch
+  374  git branch -m main
+  375  git checkout -b ingredients
+  376  mkdir ing.txt
+  377  code .
+  378  ls
+  379  git checkout main
+  380  git merge ingredients
+  381  clear
+  382  git status
+  383  git checkout ingredients
+  384  git status
+  385  cat readme.md
+  386  git checkout main
+  387  cat readme.md
+  388  git remote add origin git@github.com:paulacardonamuni/Cardona_MG_HW_Paula.git
+  389  git push -u origin main
+  390  git remote add origin git@github.com:paulacardonamuni/Cardona_MG_HW1_Paula.git
+  391  cd ..
+  392  cd ..
+  393  cd ..
+  394  cd d
+  395  cd mastering_git
+  396  mkdir Cardona_MG_HW1_Paula
+  397  cd Cardona_MG_HW1_Paula
+  398  git init
+  399  echo 'Mastering Git. First Homework. Paula Cardona' > README.md
+  400  git status
+  401  git add README.md
+  402  git status
+  403  git commin -m "Initial commit"
+  404  git commit -m "Initial commit"
+  405  clear
+  406  git remote add origin git@github.com:paulacardonamuni/Cardona_MG_HW1_Paula.git
+  407  git branch -m master
+  408  git push -u origin main
+  409  git push -u origin master
+  410  clear
+  411  cd ..
+  412  cd ..
+  413  cd ..
+  414  cd d
+  415  cd mastering_git
+  416  mkdir Cardona_MG_HW1_Paula
+  417  cd Cardona_MG_HW1_Paula
+  418  git init
+  419  git branch -m main
+  420  echo 'Mastring Git. First Homework. Paula Cardona' > README.md
+  421  git status
+  422  git add README.md
+  423  git status
+  424  git commit -m "Initial commit"
+  425  code .
+  426  clear
+  427  git status
+  428  git add list.txt
+  429  git commit -m "add list.txt"
+  430  clear
+  431  git status
+  432  git branch
+  433  checkout -b ingredients
+  434  git checkout -b ingredients
+  435  git branch
+  436  clear
+  437  git branch
+  438  git status
+  439  git add list.txt
+  440  git commit -m "Update list"
+  441  git --oneline
+  442  git log --oneline
+  443  clear
+  444  cat list.txt
+  445  git checkout main
+  446  cat list.txt
+  447  git merge ingredients
+  448  cat list.txt
+  449  git remote add origin git@github.com:paulacardonamuni/Cardona_MG_HW1_Paula.git
+  450  git push -u origin main
+  451  git checkout -b visual
+  452  push -u origin visual
+  453  git push -u origin visual
+  454  git checkout ingredients
+  455  git checkout main
+  456  clear
+  457  git status
+  458  git add description.txt
+  459  git commit -m "add description"
+  460  git push -u origin main
+  461  git status
+  462  git stash
+  463  clear
+  464  git status
+  465  git stash save "steps"
+  466  git stash list
+  467  git status
+  468  git stash apply
+  469  git status
+  470  clear
+  471  git stash list
+  472  git stash show
+  473  git stash [push]
+  474  git log stash
+  475  git status
+  476  git add description.txt
+  477  git commit -m "update description"
+  478  git push 
+  479  git status
+  480  git push -u main
+  481  git push -u origin main
+  482  clear
+  483  stash list
+  484  git stash list
+  485  git stash show
+  486  git stash [push]
+  487  git stash [push -s]
+  488  clear
+  489  git status
+  490  git tag v1.0
+  491  git log
+  492  clear
+  493  git logg
+  494  git log
+  495  git status
+  496  git push
+  497  git pull
+  498  git push
+  499  git push -u origin main
+  500  cd ..
+  501  cd ..
+  502  cd ..
+  503  cd d
+  504  cd mastering_git
+  505  cd Cardona_MG_HW1_Paula
+  506  history > Cardona_hw1_history.log
