@@ -9,10 +9,10 @@ I will list the different ingredients that are necessary for the recipe and the 
 
 
 **Ingredients**
-- 800g of potatoes (3 ud)
-- 300g of eggs (6 ud)
+- 800g of potatoes (3 large potatoes)
+- 300g of eggs (6 L eggs)
 - 400 ml of olive oil (2 cups)
-- 120g of onion (1 ud)
+- 120g of onion (1 larger piece)
 
 **Steps**
 1. Cook the potatoes with olive oil
