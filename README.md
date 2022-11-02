@@ -1,7 +1,7 @@
 ### Mastering git course: homework 1
 
-My name is Paula Cardona and this is my first homework solution. 
-I decided to talk about one of my favorites reciep: Potato Omelette.
+My name is Paula Cardona, 
+I decided to talk aboutmy favorites reciep: Potato Omelette.
 
 
 ## Potato Omelette
